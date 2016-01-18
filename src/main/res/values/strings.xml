@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="action_settings">add</string>
+    <string name="action_delete">delete</string>
+</resources>
